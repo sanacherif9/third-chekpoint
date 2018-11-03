@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two|Poor+Story');
+@import url('https://fonts.googleapis.com/css?family=Gudea|Lobster+Two|Poor+Story');
+@import url('https://fonts.googleapis.com/css?family=Gudea|Hammersmith+One|Lobster+Two|Poor+Story');
+.App{
+  background-color:whitesmoke;
+}
+.titre{
+  text-align: center;
+
+}
+.equipe {
+  display: flex;
+  justify-content: space-around;
+}
+.nom{
+  display: flex;
+}
+.sname{
+  padding-left: 3%;
+  font-weight:bold;
+}
+.fname{
+  font-weight:inherit;
+}
+.job{
+  color: rgb(90, 88, 88);
+  font-size: 180%;
+ font-family: 'Lobster Two';
+ margin:0%;
+
+}
+
+
